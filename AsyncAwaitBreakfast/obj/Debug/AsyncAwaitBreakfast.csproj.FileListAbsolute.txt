@@ -1,0 +1,7 @@
+C:\03_Coding\02 Projects\C#\AsyncAwaitBreakfast\AsyncAwaitBreakfast\bin\Debug\AsyncAwaitBreakfast.exe.config
+C:\03_Coding\02 Projects\C#\AsyncAwaitBreakfast\AsyncAwaitBreakfast\bin\Debug\AsyncAwaitBreakfast.exe
+C:\03_Coding\02 Projects\C#\AsyncAwaitBreakfast\AsyncAwaitBreakfast\bin\Debug\AsyncAwaitBreakfast.pdb
+C:\03_Coding\02 Projects\C#\AsyncAwaitBreakfast\AsyncAwaitBreakfast\obj\Debug\AsyncAwaitBreakfast.csprojAssemblyReference.cache
+C:\03_Coding\02 Projects\C#\AsyncAwaitBreakfast\AsyncAwaitBreakfast\obj\Debug\AsyncAwaitBreakfast.csproj.CoreCompileInputs.cache
+C:\03_Coding\02 Projects\C#\AsyncAwaitBreakfast\AsyncAwaitBreakfast\obj\Debug\AsyncAwaitBreakfast.exe
+C:\03_Coding\02 Projects\C#\AsyncAwaitBreakfast\AsyncAwaitBreakfast\obj\Debug\AsyncAwaitBreakfast.pdb
